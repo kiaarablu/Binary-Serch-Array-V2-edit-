@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\bin\Debug\Binary-Serch-Array-V2(edit).exe.config
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\bin\Debug\Binary-Serch-Array-V2(edit).exe
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\bin\Debug\Binary-Serch-Array-V2(edit).pdb
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\obj\Debug\Binary-Serch-Array-V2(edit).csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\obj\Debug\Binary-Serch-Array-V2(edit).csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\obj\Debug\Binary-Serch-Array-V2(edit).csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\obj\Debug\Binary-Serch-Array-V2(edit).exe
+D:\kia prjc\tamrin\Binary-Serch-Array-V2(edit)\Binary-Serch-Array-V2(edit)\obj\Debug\Binary-Serch-Array-V2(edit).pdb
